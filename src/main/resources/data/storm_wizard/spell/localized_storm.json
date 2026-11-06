@@ -1,0 +1,42 @@
+{
+  "school": "spell_power:lightning",
+  "type": "ACTIVE",
+  "range": 25,
+  "tier": 4,
+  "order": 0,
+  "group": "storm_wizard_tier_4",
+  "learn": {},
+  "active": {
+    "cast": {
+      "duration": 0
+    }
+  },
+  "target": {
+    "type": "AIM",
+    "aim": {
+      "required": false,
+      "sticky": false,
+      "use_caster_as_fallback": false,
+      "reposition_vertically": 0.0
+    }
+  },
+  "deliver": {
+    "type": "DIRECT"
+  },
+  "impacts": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 1.5
+        }
+      }
+    }
+  ],
+  "cost": {
+    "cooldown": {
+      "duration": 12.0
+    },
+    "exhaust": 0.0
+  }
+}

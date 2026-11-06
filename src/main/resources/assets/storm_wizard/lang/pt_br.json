@@ -1,0 +1,20 @@
+{
+  "item.storm_wizard.spell_book/storm": "Tomo da Tempestade",
+  "item.storm_wizard.spell_book/storm.spell_binding.description": "Um tomo com os ensinamentos da magia da tempestade.",
+  "spell.storm_wizard.thunder_leap.name": "Salto do Trovão",
+  "spell.storm_wizard.thunder_leap.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.repulsive_pulse.name": "Pulso Repulsivo",
+  "spell.storm_wizard.repulsive_pulse.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.chain_lightning.name": "Corrente de Raios",
+  "spell.storm_wizard.chain_lightning.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.focused_bolt.name": "Raio Concentrado",
+  "spell.storm_wizard.focused_bolt.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.electrified_ground.name": "Chão Eletrificado",
+  "spell.storm_wizard.electrified_ground.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.magnetic_vortex.name": "Vórtice Magnético",
+  "spell.storm_wizard.magnetic_vortex.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.localized_storm.name": "Tempestade Localizada",
+  "spell.storm_wizard.localized_storm.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo.",
+  "spell.storm_wizard.wrath_of_heavens.name": "Ira dos Céus",
+  "spell.storm_wizard.wrath_of_heavens.description": "Protótipo de seleção: dispara um impacto elétrico simples no alvo."
+}

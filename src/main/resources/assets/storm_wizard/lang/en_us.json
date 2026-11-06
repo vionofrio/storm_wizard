@@ -1,0 +1,20 @@
+{
+  "item.storm_wizard.spell_book/storm": "Tome of the Storm",
+  "item.storm_wizard.spell_book/storm.spell_binding.description": "A tome containing the teachings of storm magic.",
+  "spell.storm_wizard.thunder_leap.name": "Thunder Leap",
+  "spell.storm_wizard.thunder_leap.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.repulsive_pulse.name": "Repulsive Pulse",
+  "spell.storm_wizard.repulsive_pulse.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.chain_lightning.name": "Chain Lightning",
+  "spell.storm_wizard.chain_lightning.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.focused_bolt.name": "Focused Bolt",
+  "spell.storm_wizard.focused_bolt.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.electrified_ground.name": "Electrified Ground",
+  "spell.storm_wizard.electrified_ground.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.magnetic_vortex.name": "Magnetic Vortex",
+  "spell.storm_wizard.magnetic_vortex.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.localized_storm.name": "Localized Storm",
+  "spell.storm_wizard.localized_storm.description": "Prototype spell used to validate the Spell Book selection flow.",
+  "spell.storm_wizard.wrath_of_heavens.name": "Wrath of the Heavens",
+  "spell.storm_wizard.wrath_of_heavens.description": "Prototype spell used to validate the Spell Book selection flow."
+}

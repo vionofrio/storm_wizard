@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "storm_wizard:thunder_leap",
+    "storm_wizard:repulsive_pulse",
+    "storm_wizard:chain_lightning",
+    "storm_wizard:focused_bolt",
+    "storm_wizard:electrified_ground",
+    "storm_wizard:magnetic_vortex",
+    "storm_wizard:localized_storm",
+    "storm_wizard:wrath_of_heavens"
+  ]
+}
